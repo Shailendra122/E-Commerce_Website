@@ -2,7 +2,7 @@
 
 A modern, responsive e-commerce web application built using **React.js**. Browse products, add items to your cart, and get a feel for how React powers dynamic front-end experiences.
 
-🌐 **Live Demo**: [ecommercereac.netlify.app](https://ecommercereac.netlify.app) :contentReference[oaicite:1]{index=1}
+🌐 **Live Demo**: [ecommercereac.netlify.app](https://ecommercereac.netlify.app) 
 
 ##  Features
 - Built with **React.js** for a fast, interactive UI.
