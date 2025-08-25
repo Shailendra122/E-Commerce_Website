@@ -20,7 +20,7 @@ const CartItem = ({item, itemIndex}) => {
       shadow-2xl shadow-blue-500/20">
 
         <div className="h-[180px]">
-          <img src={item.image} className="w-full h-full"/>
+          <img src={item.image} alt={item.title || "Cart item"} className="w-full h-full"/>
         </div>
 
         <div className="flex flex-col justify-between gap-1">
